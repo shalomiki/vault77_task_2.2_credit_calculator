@@ -1,0 +1,12 @@
+body {
+    background-color: #454d55;
+}
+
+.container {
+    margin-top: 30px;
+    width: 6000px;
+}
+
+.highlighted-row {
+    background-color: darkgreen;
+}
