@@ -7,6 +7,10 @@ body {
     width: 6000px;
 }
 
-.highlighted-row {
+.daily-row {
     background-color: darkgreen;
+}
+
+.overflow-row {
+    background-color: red;
 }
